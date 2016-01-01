@@ -1,0 +1,8 @@
+{
+  "name": "Dummy",
+  "description": "A Dummy App running within our Application Hosting",
+  "version": "1.0.0",
+  "engines": {
+    "node": "5.3.0"
+  }
+}
