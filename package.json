@@ -2,7 +2,7 @@
   "name": "Dummy",
   "description": "A Dummy App running within our Application Hosting",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "version": "1.0.0",
   "dependencies": {
